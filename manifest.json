@@ -1,0 +1,10 @@
+{
+  "name": "Tag Highlight",
+  "manifest_version": 2,
+  "version": "0.1",
+  "omnibox": { "keyword": "highlight"},
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["activeTab"]
+}
